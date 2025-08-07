@@ -26,16 +26,14 @@ Currently, I am actively building out public data analysis projects to demonstra
 
 <h2>DATA ANALYSIS PROJECTS</h2>
 
-- <b>Excel</b>
-  - <b>Analyzing the Drug Market Project</b>
-    - Drug Market Dataset: Data Exploration, Decision Tree Analysis
-    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
-  - <b>Nurse Attrition Linear Regression Analysis Project</b>
-    - Nurse Attrition Dataset: Data Exploration, Linear Regression Analysis
-    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
-  - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project</b>
-    - FO Tread Bikes Datasets: Data Exploration, Pivot Tables, Data Visualization
-    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
+- <b>Data Visualization</b>
+    - <b>Tableau</b>
+      - <b>Superheroes Analysis Project</b>
+        - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+      - <b>Superstore Sales Performance Project</b>
+        - <i>Review the Project Repo:</i> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance)
+        - [Tableau Public: Superstore Sales Performance](https://public.tableau.com/shared/MP44DZ8ZT?:display_count=n&:origin=viz_share_link)
+        - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 - <b>SQL</b>
@@ -53,21 +51,18 @@ Currently, I am actively building out public data analysis projects to demonstra
       - <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project)
       - <i>Review Results & SQL Queries:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md)
   
-        
-- <b>Python</b>
-     
 
-- <b>Data Visualization</b>
-    - <b>Tableau</b>
-      - <b>Superheroes Analysis Project</b>
-        - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-      - <b>Superstore Sales Performance Project</b>
-        - <i>Review the Project Repo:</i> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance)
-        - [Tableau Public: Superstore Sales Performance](https://public.tableau.com/shared/MP44DZ8ZT?:display_count=n&:origin=viz_share_link)
-        - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-    - <b>Power BI</b>
+- <b>Excel</b>
+  - <b>Analyzing the Drug Market Project</b>
+    - Drug Market Dataset: Data Exploration, Decision Tree Analysis
+    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
+  - <b>Nurse Attrition Linear Regression Analysis Project</b>
+    - Nurse Attrition Dataset: Data Exploration, Linear Regression Analysis
+    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
+  - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project</b>
+    - FO Tread Bikes Datasets: Data Exploration, Pivot Tables, Data Visualization
+    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
+ 
       
 <h1></h1>
 

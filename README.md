@@ -41,6 +41,7 @@ Currently, I am actively building out public data analysis projects to demonstra
 
    
       - <b>Superheroes Analysis Project</b>
+        -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
         - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
         
 

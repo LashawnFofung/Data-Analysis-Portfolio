@@ -30,15 +30,14 @@ Currently, I am actively building out public data analysis projects to demonstra
     
       - <b>Superstore Sales Performance Project</b>
 
-        <img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Superstore%20Sales%20Performance%20Dashboard.png" width="200"  height="4" alt="Superstore Sales Performance Dashboard">
-        
-              
+        <img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Superstore%20Sales%20Performance%20Dashboard.png" width="400"  height="400" alt="Superstore Sales Performance Dashboard">
+
+         Insights geared towards the leadership team to better understand and address the company's inconsistent financial performance by leveraging transactional data to identify underlying factors contributing to varying levels of sales and profitability across different dimensions.
+ 
         - <i>Review the Project Repo:</i> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance)
         - [Tableau Public: Superstore Sales Performance](https://public.tableau.com/shared/MP44DZ8ZT?:display_count=n&:origin=viz_share_link)
         - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-        Insights geared towards the leadership team to better understand and address the company's inconsistent financial performance by leveraging transactional data to identify underlying factors contributing to varying levels of sales and profitability across different dimensions.
-  
 
    
       - <b>Superheroes Analysis Project</b>

@@ -30,7 +30,7 @@ Currently, I am actively building out public data analysis projects to demonstra
     
       - <b>Superstore Sales Performance Project</b>
 
-        <img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Superstore%20Sales%20Performance%20Dashboard.png" width="200"  height="4" alt="Superstore Sales Performance Dashboard"
+        <img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Superstore%20Sales%20Performance%20Dashboard.png" width="200"  height="4" alt="Superstore Sales Performance Dashboard">
         
               
         - <i>Review the Project Repo:</i> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance)

@@ -48,6 +48,9 @@ Currently, I am actively building out public data analysis projects to demonstra
 
 - <b>SQL</b>
     - <b>Superhereos Analysis Project</b>
+
+      <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Superheroes%20Analysis%20Dashboard.png" width="550" alt="Tableau Public Dashboard Superhero Analysis">
+
       -  Hero Information Dataset: Data Exploration
       -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
       -  <i>Review the Data Exploration SQL Scripts:</i> 

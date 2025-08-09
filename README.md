@@ -34,10 +34,11 @@ Currently, I am actively building out public data analysis projects to demonstra
         - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
         Insights geared towards the leadership team to better understand and address the company's inconsistent financial performance by leveraging transactional data to identify underlying factors contributing to varying levels of sales and profitability across different dimensions.
-        
 
-         - <b>Superheroes Analysis Project</b>
-            - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   
+      - <b>Superheroes Analysis Project</b>
+        - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+        
 
 
 - <b>SQL</b>

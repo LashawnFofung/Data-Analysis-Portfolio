@@ -51,6 +51,8 @@ Currently, I am actively building out public data analysis projects to demonstra
 
       <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Superheroes%20Analysis%20Dashboard.png" width="550" alt="Tableau Public Dashboard Superhero Analysis">
 
+      Insights geared towards understanding the superhero population by leveraging aggregated data and window functions to uncover surprising trends in weight distribution and quantify differences in average weight across races, genders, and publishers. For instance, the data reveals male heroes average approximately 210 lbs versus 145 lbs for females, and DC Comics' roster is heavier at 175 lbs on average compared to Marvel's 160 lbs.
+      
       -  Hero Information Dataset: Data Exploration
       -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
       -  <i>Review the Data Exploration SQL Scripts:</i> 

@@ -17,7 +17,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <b>AI Product Leader & Builder | HealthTech Automation</b>
 
-I am an Agile Product Leader (PMP, CSPO, CSM) specializing in leveraging applied AI/ML, Python, and SQL to architect next-generation, automation-focused HealthTech products.
+I am an Agile Product Leader (MBA,PMP, CSPO, CSM) specializing in leveraging applied AI/ML, Python, and SQL to architect next-generation, automation-focused HealthTech products.
 
 My expertise is defined by my ability to bridge strategic insight with hands-on technical execution:
 

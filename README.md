@@ -21,11 +21,11 @@ I am an Agile Product Leader (PMP, CSPO, CSM) specializing in leveraging applied
 
 My expertise is defined by my ability to bridge strategic insight with hands-on technical execution:
 
-    - <b>Generative AI:</b> I design and implement Retrieval-Augmented Generation (RAG) pipelines using the Gemini API and vector indexing to deliver intelligent Document Intelligence solutions.
+- <b>Generative AI:</b> I design and implement Retrieval-Augmented Generation (RAG) pipelines using the Gemini API and vector indexing to deliver intelligent Document Intelligence solutions.
 
-    - <b>Data Automation:</b> I build high-throughput Python pipelines that integrate Advanced OCR (Tesseract/PaddleOCR) to transform complex, unstructured documents into clean, structured data for system automation.
+- <b>Data Automation:</b> I build high-throughput Python pipelines that integrate Advanced OCR (Tesseract/PaddleOCR) to transform complex, unstructured documents into clean, structured data for system automation.
 
-    - <b>Data Analytics:</b> My foundational toolkit includes proficiency in SQL, Tableau, and Power BI, which I use to validate data, analyze trends, and drive value-based decisions (e.g., uncovering critical sales-profitability disconnects).
+- <b>Data Analytics:</b> My foundational toolkit includes proficiency in SQL, Tableau, and Power BI, which I use to validate data, analyze trends, and drive value-based decisions (e.g., uncovering critical sales-profitability disconnects).
 
 My background as a former Clinical Liaison/Transplant Coordinator (LPN) gives me unique domain expertise, ensuring every technical solution directly addresses real-world workflow pain points.
 

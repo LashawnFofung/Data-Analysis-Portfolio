@@ -10,6 +10,8 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - [<b>CERTIFICATIONS</b>](https://github.com/LashawnFofung/Data-Analysis-Portfolio#certifications)
 - [<b>CONTACT</b>](https://github.com/LashawnFofung/Data-Analysis-Portfolio#contact)
 - [<b>MBA IT MGT PORTFOLIO</b>](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
+    - [Digitital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
+    - [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
 
 <h1></h1>
 

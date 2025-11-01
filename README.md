@@ -15,11 +15,21 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <h2>ABOUT ME</h2>
 
-I am a Business Management Professional with a strong foundation in healthcare, IT, and project management, specializing in leveraging data analytics to drive impactful business outcomes. My expertise lies in translating complex data into actionable insights, enabling informed decision-making and optimized solutions.
+<b>AI Product Leader & Builder | HealthTech Automation</b>
 
-My toolkit includes proficiency in Tableau, Power BI, SQL, and Excel, which I apply to analyze data, uncover trends, and support strategic initiatives. While my background encompasses leading Agile and Waterfall IT projects and fostering cross-functional collaboration, my distinct strength is in providing data-driven solutions.
+I am an Agile Product Leader (PMP, CSPO, CSM) specializing in leveraging applied AI/ML, Python, and SQL to architect next-generation, automation-focused HealthTech products.
 
-Currently, I am actively building out public data analysis projects to demonstrate practical application of these skills. Explore my repositories to see how data insights can drive innovation and success.
+My expertise is defined by my ability to bridge strategic insight with hands-on technical execution:
+
+    - <b>Generative AI:</b> I design and implement Retrieval-Augmented Generation (RAG) pipelines using the Gemini API and vector indexing to deliver intelligent Document Intelligence solutions.
+
+    - <b>Data Automation:</b> I build high-throughput Python pipelines that integrate Advanced OCR (Tesseract/PaddleOCR) to transform complex, unstructured documents into clean, structured data for system automation.
+
+    - <b>Data Analytics:</b> My foundational toolkit includes proficiency in SQL, Tableau, and Power BI, which I use to validate data, analyze trends, and drive value-based decisions (e.g., uncovering critical sales-profitability disconnects).
+
+My background as a former Clinical Liaison/Transplant Coordinator (LPN) gives me unique domain expertise, ensuring every technical solution directly addresses real-world workflow pain points.
+
+Explore my repositories to see practical applications of AI/ML, Python, and data analytics in action. I focus on developing scalable solutions that drive measurable business outcomes, including the 25% team performance gains achieved through optimized project execution.
 
 <h1></h1>
 

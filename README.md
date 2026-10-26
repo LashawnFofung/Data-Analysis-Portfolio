@@ -40,7 +40,7 @@ For my AI products and PM work, see my [AI Portfolio](https://github.com/Lashawn
 | Project | Business Question | Tools | Headline Finding | Links |
 |---|---|---|---|---|
 | **Superstore Sales Performance** ⭐ | Why doesn't high revenue turn into profit? | SQL · Tableau · Excel | $2.3M in sales but only a 12.47% profit ratio; Texas, Tables, and Bookcases sell well but lose margin | [Repo](https://github.com/LashawnFofung/Superstore-Sales-Performance) · [Dashboard](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link) |
-| **CryptoPunks NFT Market** | How volatile and concentrated is the market? | SQL (MySQL) | Mean price ~$177K vs. median ~$56K — a few outlier sales skew the whole market | [Repo](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project) · [Report](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md) |
+| **CryptoPunks NFT Market** | How volatile and concentrated is the market? | SQL (MySQL) | Top sale ~$11.1M (#4156); all five record sales came in 2021 | [Repo](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project) · [Report](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md) |
 | **Superheroes Analysis** | What patterns hide in a character dataset? | SQL · Tableau | Marvel and DC make up 82% of heroes; ~30% of heights and weights were missing and had to be filtered out | [Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project) · [Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link) |
 | **Nurse Attrition** | What drives clinical staff turnover? | Excel regression | Identified key turnover drivers | [Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) · [Video](https://youtu.be/mEK-_1xrKpA) |
 | **Drug Market Analysis** | Which pharma strategy maximizes value under uncertainty? | Excel decision tree | Risk/payoff model for strategy choice | [Repo](https://github.com/LashawnFofung/Drug-Market-Analysis) |
@@ -72,14 +72,14 @@ For my AI products and PM work, see my [AI Portfolio](https://github.com/Lashawn
 ## 🗄️ SQL Projects
 
 ### CryptoPunks NFT Market Analysis
-*Jan 2018 – Dec 2021 · MySQL*
+*Sales from Jan 2018 · MySQL*
 
 **The question:** How big, volatile, and concentrated is the CryptoPunks NFT market?
 
 **Key findings** from 19,920 sales:
-- **Extreme skew.** Prices ranged from $181 to $23.7M. The mean (~$177K) is more than three times the median (~$56K), so a handful of outlier sales distort the "average."
-- **Weekly rhythm.** Volume is lowest on Sundays (2,490 sales) and peaks on Thursdays (3,156), but average prices hold steady across days.
-- **Low turnover.** Individual tokens rarely trade more than once in the same month.
+- **Record sales all came in 2021.** The top sale was CryptoPunk #4156 at about $11.1M, and all top five sold for $5.4M–$11.1M.
+- **Extreme concentration.** Prices range from $0 (transfers) to $11.1M, and some punks swing widely; #1000 sold for anywhere from ~$3K to ~$113K.
+- **Data quality caught and documented.** Dates were misread on import (MM/DD/YY read as YY/MM/DD), so time-based results are being rerun with corrected queries.
 
 **SQL techniques:** window functions (50-transaction moving average, `ROW_NUMBER`), multi-step CTEs, date cleaning across mixed formats with `STR_TO_DATE`, views, `UNION ALL`, and `CASE` logic.
 

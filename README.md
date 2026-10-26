@@ -1,113 +1,136 @@
-<h1>Lashawn Fofung - Data Analysis Portfolio</h1>
-MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
+<div align="center">
 
-<h2></h2>
+# 📊 Data Analysis Portfolio
+### Lashawn Fofung · Technical Product Manager
 
-<h2>TABLE OF CONTENTS</h2> 
+**Good product decisions start with the right question and honest data. This is where I show that work.**
 
-- [<b>ABOUT ME</b>](https://github.com/LashawnFofung/Data-Analysis-Portfolio#about-me) 
-- [<b>DATA ANALYSIS PROJECTS</b>](https://github.com/LashawnFofung/Data-Analysis-Portfolio#data-analysis-projects)
-- [<b>CERTIFICATIONS</b>](https://github.com/LashawnFofung/Data-Analysis-Portfolio#certifications)
-- [<b>CONTACT</b>](https://github.com/LashawnFofung/Data-Analysis-Portfolio#contact)
-- [<b>MBA IT MGT PORTFOLIO</b>](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
-    - [Digitital Product AI Strategy](https://github.com/LashawnFofung/Digital-Product-AI-Strategy)
-    - [AI-Powered Document Automation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform)
-    - [Python Document Preparation & Extraction](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction)
+MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM
 
-<h1></h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lashawnfofung/)
+[![MBA Portfolio](https://img.shields.io/badge/MBA_Portfolio-View-6E40C9?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
+[![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-View-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung/AI-Portfolio)
+[![GitHub](https://img.shields.io/badge/All_Repos-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung)
 
-<h2>ABOUT ME</h2>
+</div>
 
-<b>AI Product Leader & Builder | HealthTech Automation</b>
+---
 
-I am an Agile Product Leader (MBA,PMP, CSPO, CSM) specializing in leveraging applied AI/ML, Python, and SQL to architect next-generation, automation-focused HealthTech products.
+## Contents
+[About](#about) · [At a Glance](#at-a-glance) · [Featured Case Study](#-featured-case-study-superstore-sales-performance) · [SQL Projects](#-sql-projects) · [Excel & Decision Analysis](#-excel--decision-analysis) · [Toolkit](#toolkit) · [Certifications](#certifications) · [Contact](#contact)
 
-My expertise is defined by my ability to bridge strategic insight with hands-on technical execution:
+---
 
-- <b>Generative AI:</b> I design and implement Retrieval-Augmented Generation (RAG) pipelines using the Gemini API and vector indexing to deliver intelligent Document Intelligence solutions.
+## About
 
-- <b>Data Automation:</b> I build high-throughput Python pipelines that integrate Advanced OCR (Tesseract/PaddleOCR) to transform complex, unstructured documents into clean, structured data for system automation.
+I'm a Technical Product Manager who uses data to decide *what* to build and *whether it worked*. Before product, I was a **Clinical Liaison and Transplant Coordinator (LPN)**, where a wrong number reaches a real patient. That shaped how I work: validate the data first, then tell the story.
 
-- <b>Data Analytics:</b> My foundational toolkit includes proficiency in SQL, Tableau, and Power BI, which I use to validate data, analyze trends, and drive value-based decisions (e.g., uncovering critical sales-profitability disconnects).
+**What this portfolio shows:**
+- **Business framing.** Each project starts with a leadership question, not a chart.
+- **SQL depth.** Window functions, multi-step CTEs, views, and data cleaning on messy real-world dates.
+- **Executive storytelling.** Interactive Tableau dashboards and written recommendations a leader can act on.
+- **Decision analysis.** Regression and decision-tree models in Excel for choices under uncertainty.
 
-My background as a former Clinical Liaison/Transplant Coordinator (LPN) gives me unique domain expertise, ensuring every technical solution directly addresses real-world workflow pain points.
+For my AI products and PM work, see my [AI Portfolio](https://github.com/LashawnFofung/AI-Portfolio) and [MBA Portfolio](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio).
 
-Explore my repositories to see practical applications of AI/ML, Python, and data analytics in action. I focus on developing scalable solutions that drive measurable business outcomes, including the 25% team performance gains achieved through optimized project execution.
+---
 
-<h1></h1>
+## At a Glance
 
-<h2>DATA ANALYSIS PROJECTS</h2>
+| Project | Business Question | Tools | Headline Finding | Links |
+|---|---|---|---|---|
+| **Superstore Sales Performance** ⭐ | Why doesn't high revenue turn into profit? | SQL · Tableau · Excel | $2.3M in sales but only a 12.47% profit ratio; Texas, Tables, and Bookcases sell well but lose margin | [Repo](https://github.com/LashawnFofung/Superstore-Sales-Performance) · [Dashboard](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link) |
+| **CryptoPunks NFT Market** | How volatile and concentrated is the market? | SQL (MySQL) | Mean price ~$177K vs. median ~$56K — a few outlier sales skew the whole market | [Repo](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project) · [Report](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md) |
+| **Superheroes Analysis** | What patterns hide in a character dataset? | SQL · Tableau | Male heroes average ~210 lbs vs. ~145 lbs for female heroes | [Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project) · [Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link) |
+| **Nurse Attrition** | What drives clinical staff turnover? | Excel regression | Identified key turnover drivers | [Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) · [Video](https://youtu.be/mEK-_1xrKpA) |
+| **Drug Market Analysis** | Which pharma strategy maximizes value under uncertainty? | Excel decision tree | Risk/payoff model for strategy choice | [Repo](https://github.com/LashawnFofung/Drug-Market-Analysis) |
+| **FO Tread Bikes (MBA Capstone)** | How should a startup scale profitably? | Excel · pivot tables · BI | Perfect 1.000 financial risk score | [Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) |
 
-- <b>Data Visualization</b>
-    - <b>Tableau</b>
-    
-      - <b>Superstore Sales Performance Analysis: Optimizing Superstore Sales Performance for Enhanced Profitability (Orders from January 2014 - December 2017)</b>
+---
 
-        <img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Superstore%20Sales%20Performance%20Dashboard.png" width="400"  height="400" alt="Superstore Sales Performance Dashboard">
+## ⭐ Featured Case Study: Superstore Sales Performance
+*Orders Jan 2014 – Dec 2017 · SQL · Tableau · Project Management*
 
-         Insights geared towards the leadership team to better understand and address the company's inconsistent financial performance by leveraging transactional data to identify underlying factors contributing to varying levels of sales and profitability across different dimensions.
- 
-        - <i>Review the Project Repo:</i> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance)
-        - [Tableau Public: Superstore Sales Performance](https://public.tableau.com/shared/MP44DZ8ZT?:display_count=n&:origin=viz_share_link)
-        - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Superstore Sales Performance Dashboard](https://github.com/LashawnFofung/Superstore-Sales-Performance/raw/main/Images/Superstore%20Sales%20Performance%20Dashboard.png)](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link)
 
+**The question:** Superstore's leadership saw inconsistent profitability across regions, products, and customer segments. What drives profit, and where is money being lost?
 
-      - <b>Superheroes Analysis Project</b>
-        -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
-        - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-        
+**What I did:** Cleaned and analyzed 9,994 orders (plus returns data) in MySQL, built interactive Tableau dashboards and a data story, and planned the work like a real project, with a work breakdown structure and timeline.
 
+**What I found:**
+- **Sales ≠ profit.** $2.3M+ in sales produced only $286,397 in profit, a 12.47% profit ratio.
+- **Clear winners:** the West and East regions and the Home Office customer segment.
+- **Hidden losers:** high-revenue, low-profit areas such as Texas and the Tables and Bookcases categories.
 
-- <b>SQL</b>
-    - <b>Superhereos Analysis Project</b>
+**Recommendation:** A profitability-first strategy. Invest in proven high-margin regions and segments, and fix underperformers by adjusting pricing and discounts, or by rethinking where to compete.
 
-      <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Superheroes%20Analysis%20Dashboard.png" width="400"  height="400" alt="Tableau Public Dashboard Superhero Analysis">
+📄 [Full Case Study (PDF)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) · 📊 [Dashboard](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link) · 📖 [Tableau Story](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+🗂️ PM artifacts: [Project Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md) · [WBS (Smartsheet)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx) · [WBS & Timeline Video](https://youtu.be/t5fny7NXkSs) · [Repo](https://github.com/LashawnFofung/Superstore-Sales-Performance)
 
-      Insights geared towards understanding the superhero population by leveraging aggregated data and window functions to uncover surprising trends in weight distribution and quantify differences in average weight across races, genders, and publishers. For instance, the data reveals male heroes average approximately <b>210 lbs</b> versus <b>145 lbs</b> for females, and DC Comics' roster is heavier at <b>175 lbs</b> on average compared to Marvel's <b>160 lbs</b>.
-      
-      -  Hero Information Dataset: Data Exploration
-      -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
-      -  <i>Review the Data Exploration SQL Scripts:</i> 
-        - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
-        - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
-      - [Tableau Public Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
 
-  
-    - <b>CryptoPunk NFT Analysis Project</b>
-      - CryptoPunk Dataset: Data Cleaning, Data Exploration
-      - <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project)
-      - <i>Review Results & SQL Queries:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md)
-  
+## 🗄️ SQL Projects
 
-- <b>Excel</b>
-  - <b>Analyzing the Drug Market Project</b>
-    - Drug Market Dataset: Data Exploration, Decision Tree Analysis
-    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
-  - <b>Nurse Attrition Linear Regression Analysis Project</b>
-    - Nurse Attrition Dataset: Data Exploration, Linear Regression Analysis
-    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
-  - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project</b>
-    - FO Tread Bikes Datasets: Data Exploration, Pivot Tables, Data Visualization
-    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
- 
-      
-<h1></h1>
+### CryptoPunks NFT Market Analysis
+*Jan 2018 – Dec 2021 · MySQL*
 
-<h2>CERTIFICATIONS</h2>
+**The question:** How big, volatile, and concentrated is the CryptoPunks NFT market?
 
-- <b> Project Management Professional(PMP)</b>
-  - [Badge Link](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url) 
-- <b> Certified Scrum Master(CSM)</b>
-  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
-- <b> Ceritified Scrum Product Owner(CSPO)</b>
-  - [Badge Link](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
-- <b> Agile Coaching Skills</b>
-  - [Badge Link](https://bcert.me/swzujlylo)
-<h2></h2>
+**Key findings** from 19,920 sales:
+- **Extreme skew.** Prices ranged from $181 to $23.7M. The mean (~$177K) is more than three times the median (~$56K), so a handful of outlier sales distort the "average."
+- **Weekly rhythm.** Volume is lowest on Sundays (2,490 sales) and peaks on Thursdays (3,156), but average prices hold steady across days.
+- **Low turnover.** Individual tokens rarely trade more than once in the same month.
 
-<h2>CONTACT</h2>
+**SQL techniques:** window functions (50-transaction moving average, `ROW_NUMBER`), multi-step CTEs, date cleaning across mixed formats with `STR_TO_DATE`, views, `UNION ALL`, and `CASE` logic.
 
-- [LinkedIn](https://www.linkedin.com/in/lashawnfofung/)
+🔗 [Repo](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project) · [Queries & Results](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md)
 
-  
-<h2></h2>
+---
+
+### Superheroes Analysis
+
+[![Superheroes Analysis Dashboard](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/raw/main/Images/Superheroes%20Analysis%20Dashboard.png)](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+
+**What I did:** Explored a hero dataset with aggregations and window functions, then built a Tableau dashboard.
+**Findings:** Male heroes average ~210 lbs vs. ~145 lbs for female heroes, and DC's roster averages ~175 lbs vs. Marvel's ~160 lbs.
+
+🔗 [Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project) · SQL: [Basic](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql) · [Advanced](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql) · [Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+
+---
+
+## 📈 Excel & Decision Analysis
+
+| Project | Method | What it answers | Links |
+|---|---|---|---|
+| **Nurse Attrition** | Linear regression (Analysis ToolPak) | Which factors drive clinical staff turnover? | [Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) · [Presentation](https://youtu.be/mEK-_1xrKpA) |
+| **Drug Market Analysis** | Decision tree analysis | Which pharmaceutical strategy maximizes value given market uncertainty? | [Repo](https://github.com/LashawnFofung/Drug-Market-Analysis) |
+| **FO Tread Bikes (MBA Capstone)** | Pivot tables, KPI dashboards | How should a conscious-capitalism startup scale while managing financial risk? | [Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) |
+
+---
+
+## Toolkit
+
+**SQL:** MySQL Workbench · window functions · CTEs · views · data cleaning
+**Visualization:** Tableau (dashboards and stories) · Power BI
+**Spreadsheet modeling:** Excel (regression, decision trees, pivot tables)
+**Python (for document data):** Pandas · PyMuPDF · OCR — see the [AI Portfolio](https://github.com/LashawnFofung/AI-Portfolio)
+**Project delivery:** WBS · Smartsheet · project planning
+
+---
+
+## Certifications
+
+- [PMP® — Project Management Professional](https://www.credly.com/badges/069386a1-7007-40f8-9773-f308e59e06db/public_url)
+- [CSPO® — Certified Scrum Product Owner](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
+- [CSM® — Certified ScrumMaster](https://badgecert.com/bc/html/groupbadges.html?k=NWR6TmMzUVRUbElJeVZ5c0RnclVnems0cTkybW0yb2Q)
+- [Agile Coaching Skills](https://bcert.me/swzujlylo)
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- Oracle Certified AI Foundations Associate
+
+---
+
+## Contact
+
+Open to Technical PM and AI PM roles.
+
+👉 **[Connect on LinkedIn](https://www.linkedin.com/in/lashawnfofung/)** · [MBA Portfolio](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio) · [AI Portfolio](https://github.com/LashawnFofung/AI-Portfolio)

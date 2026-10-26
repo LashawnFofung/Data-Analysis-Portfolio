@@ -41,7 +41,7 @@ For my AI products and PM work, see my [AI Portfolio](https://github.com/Lashawn
 |---|---|---|---|---|
 | **Superstore Sales Performance** ⭐ | Why doesn't high revenue turn into profit? | SQL · Tableau · Excel | $2.3M in sales but only a 12.47% profit ratio; Texas, Tables, and Bookcases sell well but lose margin | [Repo](https://github.com/LashawnFofung/Superstore-Sales-Performance) · [Dashboard](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link) |
 | **CryptoPunks NFT Market** | How volatile and concentrated is the market? | SQL (MySQL) | Mean price ~$177K vs. median ~$56K — a few outlier sales skew the whole market | [Repo](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project) · [Report](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md) |
-| **Superheroes Analysis** | What patterns hide in a character dataset? | SQL · Tableau | Male heroes average ~210 lbs vs. ~145 lbs for female heroes | [Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project) · [Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link) |
+| **Superheroes Analysis** | What patterns hide in a character dataset? | SQL · Tableau | Marvel and DC make up 82% of heroes; ~30% of heights and weights were missing and had to be filtered out | [Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project) · [Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link) |
 | **Nurse Attrition** | What drives clinical staff turnover? | Excel regression | Identified key turnover drivers | [Repo](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) · [Video](https://youtu.be/mEK-_1xrKpA) |
 | **Drug Market Analysis** | Which pharma strategy maximizes value under uncertainty? | Excel decision tree | Risk/payoff model for strategy choice | [Repo](https://github.com/LashawnFofung/Drug-Market-Analysis) |
 | **FO Tread Bikes (MBA Capstone)** | How should a startup scale profitably? | Excel · pivot tables · BI | Perfect 1.000 financial risk score | [Repo](https://github.com/LashawnFofung/FO-Tread-Bikes) |
@@ -49,13 +49,13 @@ For my AI products and PM work, see my [AI Portfolio](https://github.com/Lashawn
 ---
 
 ## ⭐ Featured Case Study: Superstore Sales Performance
-*Orders Jan 2014 – Dec 2017 · SQL · Tableau · Project Management*
+*Orders Jan 2018 – Dec 2021 · SQL · Tableau · Project Management*
 
 [![Superstore Sales Performance Dashboard](https://github.com/LashawnFofung/Superstore-Sales-Performance/raw/main/Images/Superstore%20Sales%20Performance%20Dashboard.png)](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link)
 
 **The question:** Superstore's leadership saw inconsistent profitability across regions, products, and customer segments. What drives profit, and where is money being lost?
 
-**What I did:** Cleaned and analyzed 9,994 orders (plus returns data) in MySQL, built interactive Tableau dashboards and a data story, and planned the work like a real project, with a work breakdown structure and timeline.
+**What I did:** Analyzed 9,994 order lines (5,009 orders, plus returns data) with SQL, built interactive Tableau dashboards and a data story, and planned the work like a real project, with a work breakdown structure and timeline.
 
 **What I found:**
 - **Sales ≠ profit.** $2.3M+ in sales produced only $286,397 in profit, a 12.47% profit ratio.
@@ -92,7 +92,7 @@ For my AI products and PM work, see my [AI Portfolio](https://github.com/Lashawn
 [![Superheroes Analysis Dashboard](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/raw/main/Images/Superheroes%20Analysis%20Dashboard.png)](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
 
 **What I did:** Explored a hero dataset with aggregations and window functions, then built a Tableau dashboard.
-**Findings:** Male heroes average ~210 lbs vs. ~145 lbs for female heroes, and DC's roster averages ~175 lbs vs. Marvel's ~160 lbs.
+**Findings:** Marvel and DC make up 82% of the 732 heroes, 69% of heroes are male, and "good" heroes outnumber "bad" about 2.4 to 1. About 30% of heights and weights were stored as −99, so they were filtered out before averaging. Male heroes average 126 kg vs. 79 kg for female heroes.
 
 🔗 [Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project) · SQL: [Basic](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql) · [Advanced](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql) · [Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
 

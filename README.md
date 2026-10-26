@@ -65,7 +65,7 @@ For my AI products and PM work, see my [AI Portfolio](https://github.com/Lashawn
 **Recommendation:** A profitability-first strategy. Invest in proven high-margin regions and segments, and fix underperformers by adjusting pricing and discounts, or by rethinking where to compete.
 
 📄 [Full Case Study (PDF)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Case%20Study/Case%20Study-%20Optimizing%20Superstore%20Sales%20Performance%20for%20Enhanced%20Profitability.pdf) · 📊 [Dashboard](https://public.tableau.com/shared/MP44DZ8ZT?%3Adisplay_count=n&%3Aorigin=viz_share_link) · 📖 [Tableau Story](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?%3Alanguage=en-US&publish=yes&%3Asid=&%3Aredirect=auth&%3Adisplay_count=n&%3Aorigin=viz_share_link)
-🗂️ PM artifacts: [Project Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/Plan/Project%20Management%20Plan.md) · [WBS (Smartsheet)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx) · [WBS & Timeline Video](https://youtu.be/t5fny7NXkSs) · [Repo](https://github.com/LashawnFofung/Superstore-Sales-Performance)
+🗂️ PM artifacts: [Project Plan](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/PM%20Plan/SSP_Dashboard_Project_Plan.pdf) · [WBS (Smartsheet)](https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Project%20Management/WBS/Superstore_Sale_Performance_Dashboard_WBS.xlsx) · [WBS & Timeline Video](https://youtu.be/t5fny7NXkSs) · [Repo](https://github.com/LashawnFofung/Superstore-Sales-Performance)
 
 ---
 
